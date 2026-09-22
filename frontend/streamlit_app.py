@@ -9,7 +9,7 @@ Sidebar shows past chat threads (persisted in Postgres). Selecting one loads
 its full message history and continues the same conversation; "New chat"
 starts a fresh thread.
 
-Run with:  streamlit run frontend/streamlit_app.py
+Run with:  streamlit run frontend/streamlit_app.py  ..
 """
 import json
 import os
